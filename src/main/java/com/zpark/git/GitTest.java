@@ -8,7 +8,5 @@ public class GitTest {
         System.out.println("the is test");
         System.out.println("master");
         System.out.println("test test");
-
-
     }
 }
