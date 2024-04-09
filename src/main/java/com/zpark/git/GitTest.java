@@ -10,7 +10,9 @@ public class GitTest {
         System.out.println("test test");
         System.out.println("push test");
         System.out.println("push test2");
-
+        // 这是我在网页手动加的
+        System.out.println("from 网络");
+        
 
     }
 }
